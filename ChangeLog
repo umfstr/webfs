@@ -1,0 +1,26 @@
+Universal Massive File System (UMFS) ChangeLog
+===============================================
+
+2026-09-25
+----------
+
+Documentation
+* Added README.md with an overview of the Universal Massive File System website
+  and its role in the amassivus datacenter suite.
+* Documented the files included in this static website and the local serving
+  instructions.
+* Documented the Bootstrap 5.3.3 jsDelivr dependency and the lack of a build
+  step, backend, storage service, API, or datacenter control plane in this
+  checkout.
+* Documented the responsive navigation behavior provided by the local JavaScript.
+* Documented the content boundaries around the comparison table and directed
+  readers to the UMFS source and technical documentation for implementation
+  details.
+* Added licensing and contribution guidance to the README.
+
+Website
+* Recorded the current public-facing UMFS presentation: project identity, hero
+  content, overview, datacenter-suite positioning, comparison table, license
+  section, and source links.
+* Recorded the existing GNU Affero General Public License v3.0-or-later notices
+  and the 2026 UMFS Authors copyright attribution.
