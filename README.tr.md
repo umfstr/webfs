@@ -14,6 +14,7 @@ Bu depo, UMFS'nin herkese açık web sitesini içerir: projeyi tanıtan, amassiv
 - UMFS'ye amassivus veri merkezi paketinin bir dosya sistemi bileşeni olarak genel bakış.
 - Windows, Apple, Google, Linux ve BSD depolama sistemlerini kapsayan bir karşılaştırma tablosu.
 - GNU Affero Genel Kamu Lisansı v3.0 veya sonrası bilgileri.
+- JavaScript lisanslarını listeleyen ve `main.js` kaynak kodunu gömülü sunan bir LibreJS sayfası (`jslicense.html`).
 - UMFS kaynak projesine bağlantılar: [source.masscollabs.xyz/umfs](https://source.masscollabs.xyz/umfs).
 
 Bu web sitesi bir dosya sistemi, depolama hizmeti, API veya veri merkezi kontrol düzlemi uygulamaz. Dağıtım veya uyumluluk iddialarında bulunmadan önce bu yeteneklerin proje kaynak kodunda ve teknik belgelerde doğrulanması gerekir.
@@ -37,6 +38,7 @@ Sayfa Bootstrap 5.3.3'ü jsDelivr üzerinden yüklediği için gezinme denetimle
 ```text
 .
 ├── index.html
+├── jslicense.html
 ├── LICENSE
 ├── ChangeLog
 ├── README.md
@@ -76,3 +78,5 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+Web sitesi altbilgisi; orijinal GNU AGPL-3.0-or-later metnine, JavaScript kaynak kodunu gömülü olarak sunan LibreJS sayfasına (`jslicense.html`) ve [kaynak koda](https://codeberg.org/umfstr/webfs) bağlantı verir.

@@ -4,6 +4,14 @@ Universal Massive File System (UMFS) ChangeLog
 2026-10-25
 ----------
 
+LibreJS
+* Added jslicense.html, a LibreJS web labels page that lists the license and
+  source of every JavaScript file, links to the original GNU AGPL-3.0-or-later
+  license text, and embeds the full source of main.js.
+* Added LibreJS @license and @license-end markers to main.js.
+* Added GNU AGPL-3.0-or-later, LibreJS, and Source code links
+  (https://codeberg.org/umfstr/webfs) to the website footer.
+
 Documentation
 * Added README.tr.md, a Turkish (Türkiye) translation of the README.
 * Linked the English and Turkish READMEs to each other and listed README.tr.md

@@ -14,6 +14,7 @@ This repository contains the public-facing UMFS website: a focused, responsive p
 - An overview of UMFS as a file-system component of the amassivus datacenter suite.
 - A comparison table covering Windows, Apple, Google, Linux, and BSD storage systems.
 - GNU Affero General Public License v3.0-or-later information.
+- A LibreJS page (`jslicense.html`) that lists JavaScript licenses and embeds the `main.js` source.
 - Links to the UMFS source project at [source.masscollabs.xyz/umfs](https://source.masscollabs.xyz/umfs).
 
 This website does not implement a file system, storage service, API, or datacenter control plane. Those capabilities should be verified in the project source and technical documentation before making deployment or compatibility claims.
@@ -37,6 +38,7 @@ The page loads Bootstrap 5.3.3 from jsDelivr, so the navigation controls need ne
 ```text
 .
 ├── index.html
+├── jslicense.html
 ├── LICENSE
 ├── ChangeLog
 ├── README.md
@@ -76,3 +78,5 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+The website footer links to the original GNU AGPL-3.0-or-later text, to the LibreJS page (`jslicense.html`, which embeds the JavaScript source), and to the [source code](https://codeberg.org/umfstr/webfs).
