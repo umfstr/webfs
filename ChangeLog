@@ -1,6 +1,19 @@
 Universal Massive File System (UMFS) ChangeLog
 ===============================================
 
+2026-10-25
+----------
+
+Documentation
+* Added README.tr.md, a Turkish (Türkiye) translation of the README.
+* Linked the English and Turkish READMEs to each other and listed README.tr.md
+  in the project layout.
+
+Website
+* Added the full GNU Affero General Public License v3.0-or-later notice to the
+  header comment of index.html.
+* Updated the UMFS Authors copyright attribution to 2026-2027.
+
 2026-09-25
 ----------
 

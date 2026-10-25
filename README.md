@@ -1,5 +1,7 @@
 # UMFS
 
+English (US) | [Türkçe](README.tr.md)
+
 UMFS is the Universal Massive File System for the amassivus datacenter suite.
 
 This repository contains the public-facing UMFS website: a focused, responsive page that introduces the project, explains its intended place in the amassivus platform, compares its stated scope with familiar file systems, and publishes the project license. The page is written to be clear about what is known here and what belongs in the UMFS source and technical documentation.
@@ -38,6 +40,7 @@ The page loads Bootstrap 5.3.3 from jsDelivr, so the navigation controls need ne
 ├── LICENSE
 ├── ChangeLog
 ├── README.md
+├── README.tr.md
 └── assets
     ├── css
     │   └── styles.css
