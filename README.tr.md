@@ -62,14 +62,17 @@ Sayfayı güncellerken:
 
 ## Lisans
 
-UMFS, GNU Affero Genel Kamu Lisansı'nın 3. sürümü veya sonraki sürümlerinden biri kapsamında dağıtılır. Lisansın tam metni için [LICENSE](LICENSE) dosyasına bakın.
+Copyright (C) 2026-2027 UMFS Authors
 
-Telif Hakkı (C) 2026-2027 UMFS Authors
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Bu program özgür yazılımdır: Free Software Foundation tarafından yayımlanan GNU Affero Genel Kamu Lisansı'nın 3. sürümü veya (tercihinize bağlı olarak) sonraki herhangi bir sürümünün koşulları altında yeniden dağıtabilir ve/veya değiştirebilirsiniz.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
 
-Bu program yararlı olması umuduyla dağıtılmaktadır, ancak HİÇBİR GARANTİ VERİLMEMEKTEDİR; ticari elverişlilik veya belirli bir amaca uygunluk garantisi dahi verilmemektedir. Ayrıntılar için GNU Affero Genel Kamu Lisansı'na bakın.
-
-Bu programla birlikte GNU Affero Genel Kamu Lisansı'nın bir kopyasını almış olmanız gerekir. Almadıysanız <https://www.gnu.org/licenses/> adresine bakın.
-
-Not: Yukarıdaki Türkçe lisans metni gayriresmî bir çeviridir; geçerli olan metin, [LICENSE](LICENSE) dosyasındaki İngilizce metindir.
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.

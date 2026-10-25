@@ -12,7 +12,14 @@ Documentation
 Website
 * Added the full GNU Affero General Public License v3.0-or-later notice to the
   header comment of index.html.
-* Updated the UMFS Authors copyright attribution to 2026-2027.
+* Added the full English GNU Affero General Public License notice to the CSS
+  and JavaScript source comments.
+* Updated the UMFS Authors copyright attribution to 2026-2027 in the source
+  file notices and the website license section and footer.
+
+Documentation
+* Kept the full GNU Affero General Public License notice in English in both
+  README files and documented the source-file license notices.
 
 2026-09-25
 ----------
